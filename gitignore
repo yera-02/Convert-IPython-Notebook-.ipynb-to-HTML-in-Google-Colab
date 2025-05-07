@@ -1,0 +1,19 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders (if used locally)
+venv/
+env/
+
+# Ignore temporary or system files
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Ignore output files
+*.html
+*.pdf
+
+# Ignore Colab's local config files
+.colab/
